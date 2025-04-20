@@ -1,2 +1,3 @@
-# hackdavis2025
-Hack Davis 2025
+# Route Finder + Schedule Builder integration
+Built in hack Davis 2025
+still a bit scuffed 
